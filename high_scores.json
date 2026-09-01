@@ -1,0 +1,30 @@
+[
+  {
+    "score": 55971,
+    "level": 7,
+    "commands": 66,
+    "best_combo": 42,
+    "recorded_at": "2026-09-01T06:47:57"
+  },
+  {
+    "score": 31595,
+    "level": 6,
+    "commands": 57,
+    "best_combo": 23,
+    "recorded_at": "2026-09-01T06:51:25"
+  },
+  {
+    "score": 15323,
+    "level": 4,
+    "commands": 39,
+    "best_combo": 14,
+    "recorded_at": "2026-09-01T07:03:27"
+  },
+  {
+    "score": 2889,
+    "level": 5,
+    "commands": 8,
+    "best_combo": 6,
+    "recorded_at": "2026-09-01T06:39:26"
+  }
+]
